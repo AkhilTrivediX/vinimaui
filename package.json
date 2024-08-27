@@ -1,0 +1,27 @@
+{
+  "name": "vinimaui",
+  "version": "0.0.1",
+  "description": "Amazing animated UI library for your web dev need.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkhilTrivediX/vinimaui.git"
+  },
+  "keywords": [
+    "react",
+    "nextjs",
+    "ui",
+    "ux",
+    "animation"
+  ],
+  "author": "Akhil Trivedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkhilTrivediX/vinimaui/issues"
+  },
+  "homepage": "https://github.com/AkhilTrivediX/vinimaui#readme"
+}
