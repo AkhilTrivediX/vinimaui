@@ -1,0 +1,1 @@
+export declare function animateClipPath(from:string, to:string, percentage:number): string;
